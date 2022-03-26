@@ -1,0 +1,7 @@
+{
+  "name": "TestAriGroup",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
